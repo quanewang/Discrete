@@ -1,6 +1,7 @@
 # Discrete
 
 https://www.eecs.umich.edu/courses/eecs203/refs.html
+https://math.berkeley.edu/~mhaiman/math55-spring21/
 
 1. Using the premises
 i. 𝑝 ∨ 𝑞 → ¬𝑟
